@@ -16,13 +16,7 @@ export default class App extends Component{
       perPage: 5
     }
   }
-  
-//   changeStateData =()=>
-//   {
-// this.setState(
-//   {userName: this.state.username === "Gustave" ? "Rachel" : "Gustave"}
-// )
-//   }
+
 
 //Get user data
 getUserData(){
