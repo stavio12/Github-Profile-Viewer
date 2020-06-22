@@ -1,6 +1,6 @@
 ### My first React App
 
-## Vist Here [GitHub Profile Viewer](https://silly-meitner-c59273.netlify.app)
+## Vist Here [GitHub Profile Viewer](https://my-github.netlify.app)
 
 Not Completely done will update it as i learn
 
